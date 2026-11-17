@@ -1,0 +1,32 @@
+{
+  "name": "Akash Sharma",
+  "skills": [
+    "Java",
+    "Python",
+    "SQL",
+    "Spring Boot",
+    "Flask",
+    "Tailwind CSS",
+    "AWS",
+    "MongoDB",
+    "PostgreSQL",
+    "MySQL",
+    "Git",
+    "Postman",
+    "Gunicorn",
+    "WebSockets",
+    "Vercel",
+    "REST APIs",
+    "scikit-learn",
+    "Socket.IO"
+  ],
+  "years_experience": 0,
+  "target_roles": [
+    "Full Stack Developer",
+    "Software Engineer Intern",
+    "Java Developer",
+    "Backend Developer"
+  ],
+  "education": "B.Tech in Computer Science Engineering, Jain University, Bengaluru",
+  "summary": "Akash Sharma is a Computer Science undergraduate with hands-on internship experience in full-stack engineering and cloud-edge machine learning applications. He has built and deployed web systems using Spring Boot, React, Python, Flask, and AWS."
+}

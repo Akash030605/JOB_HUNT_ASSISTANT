@@ -1,0 +1,39 @@
+# config.yaml - your job-search preferences.
+# All matching is case-insensitive and checks if the word appears ANYWHERE
+# in the job title / location.
+
+# A job title must contain at least one of these words
+titles_include:
+  - software
+  - developer
+  - backend
+  - data
+  - intern
+  - engineer
+
+# ...and must NOT contain any of these
+titles_exclude:
+  - senior
+  - staff
+  - principal
+  - director
+  - manager
+
+# Job location must contain one of these (leave empty [] to allow everywhere)
+locations:
+  - remote
+  - bengaluru
+  - bangalore
+  - india
+
+# Ignore postings older than this many days
+max_age_days: 60
+
+# Only keep jobs Gemini scores at or above this (0-100)
+score_threshold: 0
+
+# Write a draft cover email for this many top-scoring jobs
+top_n_drafts: 3
+
+# Which Gemini model to use
+gemini_model: gemini-3.5-flash-lite

@@ -1,0 +1,13 @@
+# companies.yaml - which companies to check.
+# ats  : greenhouse | lever | ashby
+# slug : the company's id on that job board. Find it in their careers URL, e.g.
+#          boards.greenhouse.io/<slug>   jobs.lever.co/<slug>   jobs.ashbyhq.com/<slug>
+# NOTE: companies change boards sometimes. If one fails you'll see a warning
+#       and the tool simply moves on - just fix or remove that line.
+companies:
+  - { name: Stripe,   ats: greenhouse, slug: stripe }
+  - { name: Airbnb,   ats: greenhouse, slug: airbnb }
+  - { name: Palantir, ats: lever,      slug: palantir }
+  - { name: Spotify,  ats: lever,      slug: spotify }
+  - { name: Ramp,     ats: ashby,      slug: ramp }
+  - { name: Linear,   ats: ashby,      slug: linear }

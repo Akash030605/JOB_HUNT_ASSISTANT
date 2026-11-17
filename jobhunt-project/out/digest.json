@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Software Engineer, Intern",
+    "company": "Stripe",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8031833",
+    "score": 85,
+    "reasoning": "Akash is a strong candidate for an internship with relevant full-stack and backend skills, though specific financial infrastructure experience is not mentioned.",
+    "matched_skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "AWS",
+      "REST APIs"
+    ],
+    "cover_letter": "Dear Hiring Team,\n\nI am writing to express my strong interest in the Software Engineer Intern position at Stripe in Bengaluru. As a recent Computer Science graduate from Jain University, I have developed a deep appreciation for Stripe\u2019s commitment to building reliable APIs and robust financial infrastructure that powers the global internet economy. \n\nDuring my academic and practical projects, I have built and deployed scalable web systems utilizing Java, Python, Spring Boot, and PostgreSQL, along with hands-on experience working with REST APIs. I am eager to apply my technical rigor and familiarity with modern backend tools like Git and AWS to help Stripe ship high-quality, impactful solutions for millions of businesses worldwide.\n\nI would welcome the opportunity to bring my curiosity and dedication to your engineering team this season. Thank you for your time and consideration.\n\nBest regards,\n\nAkash Sharma"
+  },
+  {
+    "title": "Software Engineer, Metronome Infrastructure",
+    "company": "Stripe",
+    "location": "Toronto, Vancouver, Canada-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8231439",
+    "score": 35,
+    "reasoning": "Akash is a fresh graduate with 0 years of experience, whereas the role requires a minimum of 2+ years in backend development and distributed systems.",
+    "matched_skills": [
+      "Java"
+    ],
+    "cover_letter": "Dear Hiring Team,\n\nI am writing to express my interest in the Software Engineer position on the Metronome Infrastructure team at Stripe. As a recent Computer Science graduate from Jain University with hands-on full-stack internship experience, I am eager to apply my technical foundation to help build and scale robust cloud systems. \n\nThrough my academic and project work, I have gained practical experience developing backend services and managing databases using Java, Spring Boot, Python, and SQL, alongside deploying applications on AWS. I am comfortable working with distributed architectures, REST APIs, and version control tools like Git, allowing me to collaborate effectively and contribute to reliable developer productivity platforms.\n\nI am enthusiastic about the opportunity to bring my strong technical curiosity and dedication to Stripe's Revenue and Financial Automation organization. Thank you for your time and consideration, and I look forward to the possibility of discussing how my skills align with your infrastructure needs.\n\nBest regards,\n\nAkash Sharma"
+  },
+  {
+    "title": "Software Engineer, Payin",
+    "company": "Stripe",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=8185012",
+    "score": 35,
+    "reasoning": "The candidate lacks the professional software engineering experience required for this senior backend engineering role at Stripe.",
+    "matched_skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "REST APIs"
+    ],
+    "cover_letter": "Dear Hiring Team,\n\nI am writing to express my interest in the Software Engineer position on the Payin team at Stripe in Bengaluru. As a recent Computer Science graduate from Jain University with hands-on internship experience in full-stack engineering, I am eager to apply my technical foundation to build scalable financial infrastructure.\n\nDuring my academic and internship projects, I have developed strong backend capabilities using Java, Spring Boot, Python, and SQL. I have experience designing REST APIs and working with relational databases like PostgreSQL and MySQL, which aligns well with Stripe's need for robust, reliable backend services and fault-tolerant distributed systems. \n\nI am excited about the opportunity to help scale Stripe's payment offerings in India and contribute to high-performance transaction architectures. Thank you for your time and consideration of my application.\n\nBest regards,\n\nAkash Sharma"
+  },
+  {
+    "title": "Solutions Engineer, AI Build Team ",
+    "company": "Stripe",
+    "location": "US-SF, US-NYC, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8198323",
+    "score": 35,
+    "reasoning": "The candidate lacks professional experience and the specific pre-sales client-facing background required for this senior solutions engineering role at Stripe.",
+    "matched_skills": [
+      "Python",
+      "Java",
+      "SQL",
+      "AWS"
+    ],
+    "cover_letter": ""
+  },
+  {
+    "title": "Software Engineer, Revenue and Financial Automation",
+    "company": "Stripe",
+    "location": "San Francisco, New York City, Seattle, Chicago, US-Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8127182",
+    "score": 25,
+    "reasoning": "The candidate lacks the required 5-12+ years of experience in backend or platform software development needed for this senior role.",
+    "matched_skills": [
+      "Java"
+    ],
+    "cover_letter": ""
+  },
+  {
+    "title": "Software Engineer, Vulnerability Management",
+    "company": "Stripe",
+    "location": "US - Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8089353",
+    "score": 25,
+    "reasoning": "Akash lacks the required 2+ years of industry software engineering experience and security domain expertise needed for this role.",
+    "matched_skills": [],
+    "cover_letter": ""
+  },
+  {
+    "title": "Software Engineer, Stripe Data Pipeline",
+    "company": "Stripe",
+    "location": "Bangalore",
+    "url": "https://stripe.com/jobs/search?gh_jid=8209970",
+    "score": 15,
+    "reasoning": "The candidate has zero years of experience, whereas the role requires a minimum of 7 years in large-scale distributed systems.",
+    "matched_skills": [],
+    "cover_letter": ""
+  },
+  {
+    "title": "Technical Curriculum Developer, Technical Enablement",
+    "company": "Stripe",
+    "location": "San Francisco; Seattle; Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8164666",
+    "score": 15,
+    "reasoning": "The candidate is a recent graduate with no experience, while the job requires 3+ years in curriculum development and technical training.",
+    "matched_skills": [
+      "REST APIs"
+    ],
+    "cover_letter": ""
+  },
+  {
+    "title": "Specialist Solutions Architect, Data",
+    "company": "Stripe",
+    "location": "SF, NY, Remote",
+    "url": "https://stripe.com/jobs/search?gh_jid=8144262",
+    "score": 10,
+    "reasoning": "The candidate is a fresh graduate seeking developer roles, whereas this is a senior solutions architect position requiring deep enterprise data and sales expertise.",
+    "matched_skills": [],
+    "cover_letter": ""
+  }
+]
